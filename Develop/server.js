@@ -16,4 +16,4 @@ app.get('/notes', (req, res) => {
 });
 
 
-app.listen(PORT, () => console.log ('Sever is listening to port 3001'));
+app.listen(PORT, () => console.log (`Sever is listening to PORT ${PORT}`));
