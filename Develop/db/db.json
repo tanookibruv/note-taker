@@ -1,6 +1,18 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "new note",
+    "text": "saving new note "
+  },
+  {
+    "title": "testing",
+    "text": "making sure the whole program works"
+  },
+  {
+    "title": "delete this",
+    "text": "deleting this note"
+  },
+  {
+    "title": "console.log",
+    "text": "console.log that a new note was saved."
+  }
 ]
